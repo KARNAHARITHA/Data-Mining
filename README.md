@@ -1,6 +1,7 @@
 # Data-Mining
 Monkey pox detection
-PROBLEM STATEMENT:
+
+# **PROBLEM STATEMENT:**
 
 In this notebook, team PARAMOUNT will use the approved dataset to predict monkey pox cases.
 
@@ -15,7 +16,8 @@ Neural Networks
 Hyperparameter tuning with GridSearchCV
 Later, we will compare the results of one of the performance metric of the above methods and decided which model best fits our dataset.
 
-INTRODUCTION & OVERVIEW
+# **INTRODUCTION & OVERVIEW**
+
 A little info on MonkeyPox:
 
 Two outbreaks of a disease resembling the pox occurred in colonies of monkeys held for research in 1958, giving rise to the term "monkeypox," which was then coined. Amid 1970, the Democratic Republic of the Congo saw the first incidence of monkeypox in a time of increased smallpox eradication efforts. However, a recent outbreak of the viral disease monkeypox was proven to start in May 2022, with a concentration of cases first discovered in the United Kingdom. The first identified case was confirmed on May 6, 2022, and instances that have been documented so far do not have any known travel connections to an endemic area. Cases began to be recorded starting on May 18 from an expanding range of nations and areas, primarily in Europe but also in North and South America, Asia, North Africa, and Australia. In July 2022, the World Health Organization (WHO) announced the monkeypox outbreak as a Public Health Emergency of International Concern, and in August 2022, the U.S. Department of Health and Human Services declared the ongoing spread of the monkeypox virus in the U.S. a Public Health Emergency. As of September 29, 2022, there were 25,613 confirmed cases in 48 states, Washington DC, and Puerto Rico. The CDC continues tracking cases.
