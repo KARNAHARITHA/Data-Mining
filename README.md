@@ -27,7 +27,7 @@ The two targets we want to hit using this dataset are
 
 • Explore the demographics and symptoms of the disease
 
-# **About our Dataset**
+# **ABOUT OUR DATASET**
 
 This is a dataset generated based on a study published by thebmj and Kaggle. Number of observations – 25,000 Number of features – 10 Target Variable – MonkeyPox Classification of target Variable : Binary
 Source link : https://www.bmj.com/content/378/bmj-2022-072410
@@ -45,7 +45,7 @@ Our DV's are • Rectal Pain,
 
 We will fit a model for 'MonkeyPox'.
 
-# **Business Problem:**
+# **BUSINESS PROBLEM**
 The recent outbreak in monkey pox has resulted in huge medical complications and various businesses have been affected.
 How can we build an intelligent model that can predict if the person tests positive or negative to MonkeyPox based on the dependent variables/features?
 
