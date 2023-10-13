@@ -1,5 +1,5 @@
-# ** Data-Mining **
-# ** Monkey pox detection**
+# **Data-Mining**
+# **Monkey pox detection**
 
 # **PROBLEM STATEMENT:**
 
