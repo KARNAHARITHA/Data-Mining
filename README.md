@@ -1,7 +1,7 @@
-# **Data-Mining**
-# **Monkey pox detection**
+# **DATA MINING**
+# **MONKEY POX DETECTION**
 
-# **PROBLEM STATEMENT:**
+## **PROBLEM STATEMENT:**
 
 In this notebook, team PARAMOUNT will use the approved dataset to predict monkey pox cases.
 
@@ -16,7 +16,7 @@ Neural Networks
 Hyperparameter tuning with GridSearchCV
 Later, we will compare the results of one of the performance metric of the above methods and decided which model best fits our dataset.
 
-# **INTRODUCTION & OVERVIEW**
+## **INTRODUCTION & OVERVIEW**
 
 A little info on MonkeyPox:
 
@@ -27,7 +27,7 @@ The two targets we want to hit using this dataset are
 
 • Explore the demographics and symptoms of the disease
 
-# **ABOUT OUR DATASET**
+## **ABOUT OUR DATASET**
 
 This is a dataset generated based on a study published by thebmj and Kaggle. Number of observations – 25,000 Number of features – 10 Target Variable – MonkeyPox Classification of target Variable : Binary
 Source link : https://www.bmj.com/content/378/bmj-2022-072410
@@ -45,16 +45,16 @@ Our DV's are • Rectal Pain,
 
 We will fit a model for 'MonkeyPox'.
 
-# **BUSINESS PROBLEM**
+## **BUSINESS PROBLEM**
 The recent outbreak in monkey pox has resulted in huge medical complications and various businesses have been affected.
 How can we build an intelligent model that can predict if the person tests positive or negative to MonkeyPox based on the dependent variables/features?
 
-# **NEED FOR A MODEL:****
+## **NEED FOR A MODEL:****
 In order to test for monkeypox, the healthcare provider/ physician conducts PCR by taking a swab to rub across more than 1 lesions of the rash. Then the swab is sent to the lab to detect viruses in the orthopoxviral genes. This process typically takes 48 hours which is a huge downtime and can cost lives at times.
 
 The importance of building resilient health systems that will accelerate the global goal of responding swiftly is a potential solution. Monkeypox broke out in May 2022 and our motivation is to develop a predictive model which will aid the physicians to swiftly make decisions for further treatment.
 
-# **ANALYSIS**
+## **ANALYSIS**
 
 The main contribution of this assignment is to implement elegant learning algorithms on Global monkey pox patients dataset from Kaggle to observe the variation of metrics for each of the algorithms on the dataset. Out of all the precision, recall, f1_score and accuracy metrics, we found that for this dataset, "precision" is a good metric to compare the different model performances.
 
